@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1)" Category="CodeSchema_Solution" Bounds="0,174.243252758312,96.38,25.96" Label="Space Shooter" />
+    <Node Id="(@4 @2 Type=cAsteroid)" Category="CodeSchema_Class" Bounds="1210.07766666667,55.9600000000001,90.8966666666668,26" CodeSchemaProperty_IsPublic="True" Icon="e96eee46-6085-467a-9653-fb4f135b5987" Label="cAsteroid" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" NativeProvider_TypeName="cAsteroid" />
+    <Node Id="(@4 @2 Type=cBkGround)" Category="CodeSchema_Class" Bounds="1080.60756666667,55.9600000000001,99.47,26" CodeSchemaProperty_IsPublic="True" Icon="e96eee46-6085-467a-9653-fb4f135b5987" Label="cBkGround" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" NativeProvider_TypeName="cBkGround" />
+    <Node Id="(@4 @2 Type=cBullet)" Category="CodeSchema_Class" Bounds="725.536593522559,118.243252758312,76.37,26" CodeSchemaProperty_IsPublic="True" Icon="e96eee46-6085-467a-9653-fb4f135b5987" Label="cBullet" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" NativeProvider_TypeName="cBullet" />
+    <Node Id="(@4 @2 Type=cButton)" Category="CodeSchema_Class" Bounds="1330.97443333333,55.9600000000001,82.1666666666667,26" CodeSchemaProperty_IsPublic="True" Icon="e96eee46-6085-467a-9653-fb4f135b5987" Label="cButton" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" NativeProvider_TypeName="cButton" />
+    <Node Id="(@4 @2 Type=cFont)" Category="CodeSchema_Class" Bounds="725.4006,62.2432536683421,70.29,26" CodeSchemaProperty_IsPublic="True" Icon="e96eee46-6085-467a-9653-fb4f135b5987" Label="cFont" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" NativeProvider_TypeName="cFont" />
+    <Node Id="(@4 @2 Type=cFontMgr)" Category="CodeSchema_Class" Bounds="825.6907,55.9599765753693,92.3066666666666,26" CodeSchemaProperty_IsPublic="True" Icon="e96eee46-6085-467a-9653-fb4f135b5987" Label="cFontMgr" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" NativeProvider_TypeName="cFontMgr" />
+    <Node Id="(@4 @2 Type=cInputMgr)" Category="CodeSchema_Class" Bounds="375.633633333334,55.9600000000001,96.4533333333334,26" CodeSchemaProperty_IsPublic="True" Icon="e96eee46-6085-467a-9653-fb4f135b5987" Label="cInputMgr" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" NativeProvider_TypeName="cInputMgr" />
+    <Node Id="(@4 @2 Type=cRocket)" Category="CodeSchema_Class" Bounds="0,55.9600000000001,82.6,26" CodeSchemaProperty_IsPublic="True" Icon="e96eee46-6085-467a-9653-fb4f135b5987" Label="cRocket" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" NativeProvider_TypeName="cRocket" />
+    <Node Id="(@4 @2 Type=cSound)" Category="CodeSchema_Class" Bounds="112.6001,55.9600000000001,80.5933333333334,26" CodeSchemaProperty_IsPublic="True" Icon="e96eee46-6085-467a-9653-fb4f135b5987" Label="cSound" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" NativeProvider_TypeName="cSound" />
+    <Node Id="(@4 @2 Type=cSoundMgr)" Category="CodeSchema_Class" Bounds="947.997466666667,55.9600000000001,102.61,26" CodeSchemaProperty_IsPublic="True" Icon="e96eee46-6085-467a-9653-fb4f135b5987" Label="cSoundMgr" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" NativeProvider_TypeName="cSoundMgr" />
+    <Node Id="(@4 @2 Type=cSprite)" Category="CodeSchema_Class" Bounds="618.007166666667,109.176097598693,77.3933333333333,26" CodeSchemaProperty_IsPublic="True" Icon="e96eee46-6085-467a-9653-fb4f135b5987" Label="cSprite" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" NativeProvider_TypeName="cSprite" />
+    <Node Id="(@4 @2 Type=cTexture)" Category="CodeSchema_Class" Bounds="502.087066666667,55.9599421995844,85.92,26" CodeSchemaProperty_IsPublic="True" Icon="e96eee46-6085-467a-9653-fb4f135b5987" Label="cTexture" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" NativeProvider_TypeName="cTexture" />
+    <Node Id="(@4 @2 Type=cWNDManager)" Category="CodeSchema_Class" Bounds="223.193533333334,55.9600000000001,122.44,26" CodeSchemaProperty_IsPublic="True" Icon="e96eee46-6085-467a-9653-fb4f135b5987" Label="cWNDManager" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" NativeProvider_TypeName="cWNDManager" />
+    <Node Id="@3" Category="CodeSchema_Namespace" Bounds="668.470028226246,0,76.4366666666666,25.96" Label="Global‎::" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" />
+  </Nodes>
+  <Links>
+    <Link Source="@3" Target="(@4 @2 Type=cAsteroid)" Category="Contains" Bounds="744.906677246094,16.2376499176025,458.385070800781,39.0717754364014" />
+    <Link Source="@3" Target="(@4 @2 Type=cBkGround)" Category="Contains" Bounds="744.906677246094,17.2911567687988,333.855407714844,37.6600112915039" />
+    <Link Source="@3" Target="(@4 @2 Type=cBullet)" Category="Contains" Bounds="707.9921875,25.9599990844727,29.11474609375,87.2312622070313" />
+    <Link Source="@3" Target="(@4 @2 Type=cButton)" Category="Contains" Bounds="744.906677246094,15.6331586837769,578.497497558594,40.1599359512329" />
+    <Link Source="@3" Target="(@4 @2 Type=cFont)" Category="Contains" Bounds="717.915962331623,25.9600000000002,25.4968732089054,29.4764145048357" />
+    <Link Source="@3" Target="(@4 @2 Type=cFontMgr)" Category="Contains" Bounds="743.545500550017,25.4728302804295,81.4214382482845,27.5980240758293" />
+    <Link Source="@3" Target="(@4 @2 Type=cInputMgr)" Category="Contains" Bounds="480.915690704535,20.5445333359163,187.554337521711,37.1225251008329" />
+    <Link Source="@3" Target="(@4 @2 Type=cRocket)" Category="Contains" Bounds="90.1590957641602,15.6335296630859,578.310935974121,40.1525955200195" />
+    <Link Source="@3" Target="(@4 @2 Type=cSound)" Category="Contains" Bounds="200.483367919922,16.1912441253662,467.986663818359,39.3219432830811" />
+    <Link Source="@3" Target="(@4 @2 Type=cSoundMgr)" Category="Contains" Bounds="744.906694892912,20.2915487690419,194.251082286449,37.1621715994032" />
+    <Link Source="@3" Target="(@4 @2 Type=cSprite)" Category="Contains" Bounds="666.400532991336,25.9600000000002,34.3462318386506,75.0327074614931" />
+    <Link Source="@3" Target="(@4 @2 Type=cTexture)" Category="Contains" Bounds="591.088816046261,25.6422431808796,79.0374966153557,27.3724266751186" />
+    <Link Source="@3" Target="(@4 @2 Type=cWNDManager)" Category="Contains" Bounds="354.537200927734,17.3705768585205,313.932830810547,41.2463054656982" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_Class" Label="Class" BasedOn="CodeSchema_Type" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" NavigationActionLabel="Classes" />
+    <Category Id="CodeSchema_Namespace" Label="Namespace" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Type" Icon="CodeSchema_Namespace" NavigationActionLabel="Namespaces" />
+    <Category Id="CodeSchema_Solution" Label="Solution" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" NavigationActionLabel="Solutions" />
+    <Category Id="CodeSchema_Type" Label="Type" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" NavigationActionLabel="Types" />
+    <Category Id="Contains" Label="Contains" Description="Whether the source of the link contains the target object" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="Is Public" Description="Flag to indicate the scope is Public" DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="Icon" Label="Icon" Description="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="Language" Label="Language" Description="Language" DataType="System.String" />
+    <Property Id="NativeProvider_CodeItemIds" Label="NodeIds" Description="NodeIds" DataType="Microsoft.VisualStudio.Progression.SmallList`1[[System.Int64, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]" />
+    <Property Id="NativeProvider_TypeName" Label="TypeName" Description="TypeName" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+    <Name Id="Namespace" Label="Namespace" ValueType="System.String" />
+    <Name Id="Type" Label="Type" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(VsSolutionUri)/Space Shooter.sln" />
+    <Alias n="2" Id="Namespace=::" />
+    <Alias n="3" Id="(@2)" />
+    <Alias n="4" Uri="Assembly=$(23eee3c9-8db7-4cae-af0e-0926012e2fd5.OutputPathUri)" />
+  </IdentifierAliases>
+  <Paths>
+    <Path Id="23eee3c9-8db7-4cae-af0e-0926012e2fd5.OutputPathUri" Value="file:///C:/Users/Kiddy/Desktop/Games Programming/AAA Project Folder/Space Shooter/Debug/Space Shooter.exe" />
+    <Path Id="VsSolutionUri" Value="file:///C:/Users/Kiddy/Desktop/Games Programming/AAA Project Folder/Space Shooter" />
+  </Paths>
+</DirectedGraph>
